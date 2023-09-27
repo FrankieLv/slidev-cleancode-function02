@@ -7,7 +7,7 @@ layout: center
 
 Duplication may be the root of all evil in software
 
-<img src="/images/dry.PNG" class="m-1 h-40 rounded shadow" />
+<img src="/images/dry.png" class="m-1 h-40 rounded shadow" />
 
 ---
 
